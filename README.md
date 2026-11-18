@@ -22,7 +22,7 @@
 
 ```bash
 git clone https://github.com/https://github.com/EkaterinaK123/PR12_Kostrova.git
-cd https://github.com/EkaterinaK123/PR12_Kostrova.git
+cd PR12_Kostrova.git
 git status
 git add .
 git commit -m "Добавлен README.md"
